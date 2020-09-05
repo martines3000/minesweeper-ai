@@ -6,7 +6,7 @@ from minesweeper import Minesweeper, MinesweeperAI
 
 HEIGHT = 16
 WIDTH = 16
-MINES = 3
+MINES = 40
 
 # Colours
 BLACK = (0, 0, 0)
